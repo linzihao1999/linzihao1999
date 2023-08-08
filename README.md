@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=linzihao1999" />
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linzihao1999&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
+
+![Zihao Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=linzihao1999&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linzihao1999&hide=jupyter%20notebook)
 
 <!--
 **linzihao1999/linzihao1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
